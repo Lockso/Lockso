@@ -2,7 +2,7 @@
 <div align="center">
   <h2> Hi, I'm Lorenzo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
   <a href="https://github.com/Lockso">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=565E57&center=true&vCenter=true&lines=Software+Developer;US+Salernitana+1919;"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=red&center=true&vCenter=true&lines=Software+Developer;US+Salernitana+1919;"/>
   </a>
   <br />
 </div>
