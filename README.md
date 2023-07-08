@@ -11,12 +11,12 @@
 - 📍 Currently working as a Software Developer @ Zucchetti SpA. 
 - 📜 In 2022 I got the certification in Cisco Networking Academy.
 - 🎓In 2022 I got the Academic degree in IT and Telecommunications with a score of 100/100 @ High School Federico Caffè in Rome.
-- 💻 Check out some of my projects here: <a href="https://lorenzochiaese.it/#projects" target="_blank">https://lorenzochiaese.it/#projects</a>
+- 💻 Check out some of my projects here: [https://lorenzochiaese.it/#projects](https://lorenzochiaese.it/#projects)
 
 <!-- Socials section. -->
 <h2>🌐 My Social Networks</h2>
 
-- 💠 Website: [https://lorenzochiaese.it/](https://lorenzochiaese.it/){:target="_blank" rel="noopener"}
+- 💠 Website: [https://lorenzochiaese.it/](https://lorenzochiaese.it/)
 - 💠 Telegram: [https://telegram.me/LoreChiaez](https://telegram.me/LoreChiaez)
 - 💠 Discord: chiaez
 - 💠 Email: [info@lorenzochiaese.it](mailto:info@lorenzochiaese.it)
