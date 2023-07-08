@@ -1,16 +1,39 @@
-### Hi there 👋
+<!-- Welcome section. -->
+<div align="center">
+  <h2> Hi, I'm Lorenzo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+  <a href="https://github.com/Lockso">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=C792EA&center=true&vCenter=true&lines=software+developer.;professional+botmancer.;anime+addict+-.-"/>
+  </a>
+  <br />
+</div>
 
-<!--
-**Lockso/Lockso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banners section. -->
+<div>  
+  <a href="https://github.com/Lockso">
+    <img src="https://komarev.com/ghpvc/?username=Lockso&color=green" alt="profile views" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<!-- About section. -->
+<h2>👨 About me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Currently working as a Software Developer @ Zucchetti SpA. 
+- 📜 In 2022 I got the certification in Cisco Networking Academy.
+- 🎓In 2022 I got the Academic degree in IT and Telecommunications with a score of 100/100 @ High School Federico Caffè in Rome.
+- 💻 Check out some of my projects here: [https://lorenzochiaese.it/#projects](https://lorenzochiaese.it/#projects)
+
+<!-- Socials section. -->
+<h2>🌐 My Social Networks</h2>
+
+- 💠 Website: [https://lorenzochiaese.it/](https://lorenzochiaese.it/)
+- 💠 Telegram: [https://telegram.me/LoreChiaez](https://telegram.me/LoreChiaez)
+- 💠 Discord: chiaez
+- 💠 Email: [info@lorenzochiaese.it](mailto:info@lorenzochiaese.it)
+- 💠 Instagram: [https://www.instagram.com/_chiaez/](https://www.instagram.com/_chiaez/)
+- 💠 Reddit: [https://www.reddit.com/user/Chiaez](https://www.reddit.com/user/Chiaez)
+
+<!-- Stats seection -->
+<p align = "center">
+  <img src = "https://komarev.com/ghpvc/?username=Lockso&color=green">
+</p>
+
