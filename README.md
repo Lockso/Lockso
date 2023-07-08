@@ -1,9 +1,8 @@
 <!-- Welcome section. -->
 <div align="center">
   <h2> Hi, I'm Lorenzo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-  <a href="https://github.com/Lockso">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=red&center=true&vCenter=true&lines=Software+Developer;US+Salernitana+1919;"/>
-  </a>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C170C&center=true&width=435&lines=Software+Developer;US+Salernitana+1919" alt="Typing SVG" />
+
   <br />
 </div>
 
