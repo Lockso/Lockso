@@ -11,17 +11,17 @@
 - 📍 Currently working as a Software Developer @ Zucchetti SpA. 
 - 📜 In 2022 I got the certification in Cisco Networking Academy.
 - 🎓In 2022 I got the Academic degree in IT and Telecommunications with a score of 100/100 @ High School Federico Caffè in Rome.
-- 💻 Check out some of my projects here: [https://lorenzochiaese.it/#projects](https://lorenzochiaese.it/#projects){:target="_blank" rel="noopener"}
+- 💻 Check out some of my projects here: [https://lorenzochiaese.it/#projects](https://lorenzochiaese.it/#projects)
 
 <!-- Socials section. -->
 <h2>🌐 My Social Networks</h2>
 
 - 💠 Website: [https://lorenzochiaese.it/](https://lorenzochiaese.it/){:target="_blank" rel="noopener"}
-- 💠 Telegram: [https://telegram.me/LoreChiaez](https://telegram.me/LoreChiaez){:target="_blank" rel="noopener"}
+- 💠 Telegram: [https://telegram.me/LoreChiaez](https://telegram.me/LoreChiaez)
 - 💠 Discord: chiaez
-- 💠 Email: [info@lorenzochiaese.it](mailto:info@lorenzochiaese.it){:target="_blank" rel="noopener"}
-- 💠 Instagram: [https://www.instagram.com/_chiaez/](https://www.instagram.com/_chiaez/){:target="_blank" rel="noopener"}
-- 💠 Reddit: [https://www.reddit.com/user/Chiaez](https://www.reddit.com/user/Chiaez){:target="_blank" rel="noopener"}
+- 💠 Email: [info@lorenzochiaese.it](mailto:info@lorenzochiaese.it)
+- 💠 Instagram: [https://www.instagram.com/_chiaez/](https://www.instagram.com/_chiaez/)
+- 💠 Reddit: [https://www.reddit.com/user/Chiaez](https://www.reddit.com/user/Chiaez)
 
 <!-- Stats seection -->
 <p align = "center">
