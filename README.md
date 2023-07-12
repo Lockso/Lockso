@@ -22,7 +22,7 @@
 - 💠 Email: [info@lorenzochiaese.it](mailto:info@lorenzochiaese.it)
 - 💠 Instagram: [https://www.instagram.com/_chiaez/](https://www.instagram.com/_chiaez/)
 - 💠 Reddit: [https://www.reddit.com/user/Chiaez](https://www.reddit.com/user/Chiaez)
-- 💠 Twitter: [[https://www.reddit.com/user/Chiaez](https://twitter.com/LoreChiaez)  
+- 💠 Twitter: [https://www.reddit.com/user/Chiaez](https://twitter.com/LoreChiaez)  
 
 <!-- Stats seection -->
 <p align = "center">
