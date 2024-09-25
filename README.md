@@ -17,7 +17,7 @@
 <h2>🌐 My Social Networks</h2>
 
 - 💠 Website: [https://lorenzochiaese.it/](https://lorenzochiaese.it/)
-- 💠 Telegram: [https://telegram.me/LoreChiaez](https://telegram.me/chiaez)
+- 💠 Telegram: [https://telegram.me/chiaez](https://telegram.me/chiaez)
 - 💠 Discord: chiaez
 - 💠 Email: [info@lorenzochiaese.it](mailto:info@lorenzochiaese.it)
 - 💠 Instagram: [https://www.instagram.com/_chiaez/](https://www.instagram.com/_chiaez/)
