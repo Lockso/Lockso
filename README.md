@@ -9,7 +9,7 @@
 <h2>👨 About me</h2>
 
 - 📍 Currently working as a Software Developer @ Zucchetti SpA. 
-- 📜 In 2022 I obtained the certification in Cisco Networking Academy.
+- 📜 In 2022, I obtained the certification in Cisco Networking Academy.
 - 🎓In 2022, I obtained a Diploma in IT and Telecommunications with a score of 100/100 from High School Federico Caffè in Rome.
 - 💻 Check out some of my projects here: [https://lorenzochiaese.it/#projects](https://lorenzochiaese.it/#projects)
 
