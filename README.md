@@ -1,7 +1,7 @@
 <!-- Welcome section. -->
 <div align="center">
   <h2> Hi there, I'm Lorenzo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-<a href="https://github.com/Lockso"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C170C&center=true&width=435&lines=Software+Developer;Yes,+I'm+not+a+robot;US+Salernitana+1919"/></a>
+<a href="https://github.com/Lockso"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C170C&center=true&width=435&lines=Software+Developer;Yes,+I'm+not+a+robot"/></a>
 
 </div>
 
